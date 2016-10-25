@@ -1,0 +1,379 @@
+begin <pdApplicationInfo(1.1)>
+  OmniSim + CrystalWave 5.6 // applicationname applicationversion
+  1916 // licensenumber
+  6.1 (64 bit) 65461.72 // windowsversion RAM_in_MB 
+  22/06/2016 16:37:03 // savedate(dd/mm/yyyy) savetime(hh:mm:ss)
+end
+begin <pdEditorProject(1.0)> "Mark"
+  begin <FsDevice(1.13)> "Fibre0.00"
+    0 15.19 -4 4 // zmin zmax xmin xmax
+    25 // temperature
+    "" // materialsdatabase
+    begin <pdObjectList(1.0)> "PhysicalLayers"
+      begin <pdPhysicalLayer(1.3)>
+        "Physical Layer" // name
+        1 // thickness
+        0 // graded
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // spec rix alpha permeability rixx rixyy rixzz rixxy rixxz rixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // gradedspec gradedrix gradedalpha gradedpermeability gradedrixx gradedrixyy gradedrixzz gradedrixxy gradedrixxz gradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 // active
+        1 // trueactivethickness
+        255 128 255 1 1 // red green blue shading visible
+      end
+      begin <pdPhysicalLayer(1.3)>
+        "Physical Layer 1" // name
+        0.25 // thickness
+        0 // graded
+        1 1.33 0 1 2.5 2.5 2.5 0 0 0 // spec rix alpha permeability rixx rixyy rixzz rixxy rixxz rixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // gradedspec gradedrix gradedalpha gradedpermeability gradedrixx gradedrixyy gradedrixzz gradedrixxy gradedrixxz gradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 // active
+        1 // trueactivethickness
+        88 88 176 1 1 // red green blue shading visible
+      end
+      begin <pdPhysicalLayer(1.3)>
+        "Physical Layer 2" // name
+        0.25 // thickness
+        0 // graded
+        1 1.33 0 1 2.5 2.5 2.5 0 0 0 // spec rix alpha permeability rixx rixyy rixzz rixxy rixxz rixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // gradedspec gradedrix gradedalpha gradedpermeability gradedrixx gradedrixyy gradedrixzz gradedrixxy gradedrixxz gradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 // active
+        1 // trueactivethickness
+        176 88 88 1 1 // red green blue shading visible
+      end
+      begin <pdPhysicalLayer(1.3)>
+        "Physical Layer 3" // name
+        0.25 // thickness
+        0 // graded
+        1 1.33 0 1 2.5 2.5 2.5 0 0 0 // spec rix alpha permeability rixx rixyy rixzz rixxy rixxz rixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // gradedspec gradedrix gradedalpha gradedpermeability gradedrixx gradedrixyy gradedrixzz gradedrixxy gradedrixxz gradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 // active
+        1 // trueactivethickness
+        176 88 176 1 1 // red green blue shading visible
+      end
+      begin <pdPhysicalLayer(1.3)>
+        "Physical Layer 4" // name
+        0.25 // thickness
+        0 // graded
+        1 1.33 0 1 2.5 2.5 2.5 0 0 0 // spec rix alpha permeability rixx rixyy rixzz rixxy rixxz rixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // gradedspec gradedrix gradedalpha gradedpermeability gradedrixx gradedrixyy gradedrixzz gradedrixxy gradedrixxz gradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 // active
+        1 // trueactivethickness
+        88 176 88 1 1 // red green blue shading visible
+      end
+      begin <pdPhysicalLayer(1.3)>
+        "Physical Layer 5" // name
+        0.25 // thickness
+        0 // graded
+        1 1.33 0 1 2.5 2.5 2.5 0 0 0 // spec rix alpha permeability rixx rixyy rixzz rixxy rixxz rixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // gradedspec gradedrix gradedalpha gradedpermeability gradedrixx gradedrixyy gradedrixzz gradedrixxy gradedrixxz gradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 // active
+        1 // trueactivethickness
+        88 176 176 1 1 // red green blue shading visible
+      end
+      begin <pdPhysicalLayer(1.3)>
+        "Physical Layer 6" // name
+        0.25 // thickness
+        0 // graded
+        1 1.33 0 1 2.5 2.5 2.5 0 0 0 // spec rix alpha permeability rixx rixyy rixzz rixxy rixxz rixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // gradedspec gradedrix gradedalpha gradedpermeability gradedrixx gradedrixyy gradedrixzz gradedrixxy gradedrixxz gradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 // active
+        1 // trueactivethickness
+        176 176 88 1 1 // red green blue shading visible
+      end
+      begin <pdPhysicalLayer(1.3)>
+        "Physical Layer 7" // name
+        0.25 // thickness
+        0 // graded
+        1 1.33 0 1 2.5 2.5 2.5 0 0 0 // spec rix alpha permeability rixx rixyy rixzz rixxy rixxz rixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // gradedspec gradedrix gradedalpha gradedpermeability gradedrixx gradedrixyy gradedrixzz gradedrixxy gradedrixxz gradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 // active
+        1 // trueactivethickness
+        128 128 255 1 1 // red green blue shading visible
+      end
+      begin <pdPhysicalLayer(1.3)>
+        "Physical Layer 8" // name
+        0.25 // thickness
+        0 // graded
+        1 1.33 0 1 2.5 2.5 2.5 0 0 0 // spec rix alpha permeability rixx rixyy rixzz rixxy rixxz rixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // gradedspec gradedrix gradedalpha gradedpermeability gradedrixx gradedrixyy gradedrixzz gradedrixxy gradedrixxz gradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 // active
+        1 // trueactivethickness
+        255 128 128 1 1 // red green blue shading visible
+      end
+      begin <pdPhysicalLayer(1.3)>
+        "Physical Layer" // name
+        1 // thickness
+        0 // graded
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // spec rix alpha permeability rixx rixyy rixzz rixxy rixxz rixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // gradedspec gradedrix gradedalpha gradedpermeability gradedrixx gradedrixyy gradedrixzz gradedrixxy gradedrixxz gradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 // active
+        1 // trueactivethickness
+        128 255 128 1 1 // red green blue shading visible
+      end
+    end
+    begin <pdObjectList(1.0)> "ObjectLayers"
+      begin <pdMaskLayer(1.8)>
+        "Mask Layer 1" // name
+        3 1 0 // operation inverse fillgraded
+        1 1.45591 0 1 2.5 2.5 2.5 0 0 0 // fillspec fillrix fillalpha fillpermeability fillrixx fillrixyy fillrixzz fillrixxy fillrixxz fillrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // fillgradedspec fillgradedrix fillgradedalpha fillgradedpermeability fillgradedrixx fillgradedrixyy fillgradedrixzz fillgradedrixxy fillgradedrixxz fillgradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 0 1 // topspec toplayerindex topy
+        1 0 1 1 // bottomspec bottomlayerindex bottomy depth
+        1 0 0 1 // etchstopspec etchstoplayerindex etchstopy etchdepth
+        4 5 0.5 0 0 0 0 // profile profiletaperangle profileroundradius profileanisotropic profileanisotropicdirection profiletiltangle profiletiltdirection
+        "-sqrt(0.45565-(x-2)*(x-2))" // profilegenericfunction
+        1 0 // perform2d mask2dgraded
+        1 1.45591 0 1 2.5 2.5 2.5 0 0 0 // mask2dspec mask2drix mask2dalpha mask2dpermeability mask2drixx mask2drixyy mask2drixzz mask2drixxy mask2drixxz mask2drixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // mask2dgradedspec mask2dgradedrix mask2dgradedalpha mask2dgradedpermeability mask2dgradedrixx mask2dgradedrixyy mask2dgradedrixzz mask2dgradedrixxy mask2dgradedrixxz mask2dgradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 // active
+        1 // trueactivethickness
+        0 0 176 1 1 // red green blue shading visible
+      end
+      begin <pdObject3DLayer(1.1)>
+        "3D Object Layer" // name
+        0 // grading
+        1 1.45591 0 1 2.5 2.5 2.5 0 0 0 // spec rix alpha permeability rixx rixyy rixzz rixxy rixxz rixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // gradedspec gradedrix gradedalpha gradedpermeability gradedrixx gradedrixyy gradedrixzz gradedrixxy gradedrixxz gradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        176 0 0 1 1 // red green blue shading visible
+      end
+      begin <pdMaskLayer(1.8)>
+        "Mask Layer" // name
+        3 1 0 // operation inverse fillgraded
+        1 1 0 1 2.5 2.5 2.5 0 0 0 // fillspec fillrix fillalpha fillpermeability fillrixx fillrixyy fillrixzz fillrixxy fillrixxz fillrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // fillgradedspec fillgradedrix fillgradedalpha fillgradedpermeability fillgradedrixx fillgradedrixyy fillgradedrixzz fillgradedrixxy fillgradedrixxz fillgradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 0 1 // topspec toplayerindex topy
+        1 0 1 1 // bottomspec bottomlayerindex bottomy depth
+        1 0 0 1 // etchstopspec etchstoplayerindex etchstopy etchdepth
+        1 5 0.15 0 0 0 0 // profile profiletaperangle profileroundradius profileanisotropic profileanisotropicdirection profiletiltangle profiletiltdirection
+        "x" // profilegenericfunction
+        1 0 // perform2d mask2dgraded
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // mask2dspec mask2drix mask2dalpha mask2dpermeability mask2drixx mask2drixyy mask2drixzz mask2drixxy mask2drixxz mask2drixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // mask2dgradedspec mask2dgradedrix mask2dgradedalpha mask2dgradedpermeability mask2dgradedrixx mask2dgradedrixyy mask2dgradedrixzz mask2dgradedrixxy mask2dgradedrixxz mask2dgradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 // active
+        1 // trueactivethickness
+        160 0 160 1 1 // red green blue shading visible
+      end
+      begin <pdObject3DLayer(1.1)>
+        "3D Object Layer" // name
+        0 // grading
+        1 1.46 0 1 2.5 2.5 2.5 0 0 0 // spec rix alpha permeability rixx rixyy rixzz rixxy rixxz rixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        1 2.5 0 1 2.5 2.5 2.5 0 0 0 // gradedspec gradedrix gradedalpha gradedpermeability gradedrixx gradedrixyy gradedrixzz gradedrixxy gradedrixxz gradedrixyz
+        "" // materialname
+        0 0 0 0 // hasxparam hasyparam xparam yparam
+        0 160 0 1 1 // red green blue shading visible
+      end
+    end
+    begin <pdObjectList(1.0)> "SubFsDevices"
+    end
+    begin <pdObjectList(1.0)> "Objects"
+      begin <FsCylinder(1.2)>
+        8 0 0 // positionz positionx angle
+        2 // positiony
+        2 // objectlayerindex
+        0 // negative
+        1 // grading
+        "x*x + y*y + z*z" // gradinggenericfunction
+        "" // gradingfilepath
+        0 // resizetogradingfile
+        17 1.4 // sizez sizex
+        1.4 // sizey
+      end
+      begin <FsRectangle(1.2)>
+        7.995 -0 0 // positionz positionx angle
+        3 // objectlayerindex
+        0 // negative
+        1 // grading
+        "x*x + y*y + z*z" // gradinggenericfunction
+        "" // gradingfilepath
+        0 // resizetogradingfile
+        1 0.3 // sizez sizex
+      end
+      begin <pdEndSection(1.0)>
+        7.99 // positionz
+      end
+      begin <pdDipoleExcitor(1.2)>
+        8 0 0 // positionz positionx angle
+        0 0 // sizez sizex
+        6 0 2 // ymaxspec ymaxlayer ymaxcoordinate
+        6 0 2 // yminspec yminlayer ymincoordinate
+        3 2 40 0 // timeenvshape timeenvwidthspec timeenvwidth timeenvdelay
+        "" // timeenvfunction
+        1 0.98 "" 0 1.000000e+000 // chirpswitch wavelength endwavelength phase power
+        "" // phasefunction
+        1 1 1 100 // polarisation coherent coherencespec coherence
+      end
+      begin <pdBoxSensor(1.2)>
+        7.6 0 0 // positionz positionx angle
+        15 8 // sizez sizex
+        3 10 1 // ymaxspec ymaxlayer ymaxcoordinate
+        5 1 1 // yminspec yminlayer ymincoordinate
+        "Sensor 1" // name
+        1 // transformtype
+        0 5 0.1// volenable voltimerange volrunavgwgt
+      end
+      begin <pdSensorZX(1.3)>
+        0.21 0 0 // positionz positionx angle
+        1.4 // sizex
+        3 8 1 // ymaxspec ymaxlayer ymaxcoordinate
+        5 3 1 // yminspec yminlayer ymincoordinate
+        "Sensor 2" // name
+        1 // transformtype
+      end
+      begin <pdEndSection(1.0)>
+        1.67 // positionz
+      end
+    end
+    begin <pdObjectList(1.0)> "Constraints"
+    end
+    0 // growall
+    1 1 0 1 1 1 1 0 0 0 // background3dspec background3drix background3dalpha background3dpermeability background3drixx background3drixyy background3drixzz background3drixxy background3drixxz background3drixyz
+    "" // materialname
+    0 0 0 0 // hasxparam hasyparam xparam yparam
+    1 1 0 1 1 1 1 0 0 0 // background2dspec background2drix background2dalpha background2dpermeability background2drixx background2drixyy background2drixzz background2drixxy background2drixxz background2drixyz
+    "" // materialname
+    0 0 0 0 // hasxparam hasyparam xparam yparam
+    5 // refsensorindex
+    1 1 // computationallayervisible instrumentlayervisible
+    1 // constraintlayervisible
+    1 // sectionlayervisible
+    0 0 // structurelayervisible fieldlayervisible
+    0 // carrierlayervisible
+    1 0 0 1.000000 1.000000 // grid... shown linesshown linesminorshown spacingz spacingx
+    1 0.010000 0.010000 0 0.100000// snap... enabled spacingz spacingx width-enabled width
+    begin <pdObjectList(1.0)> "EngineParameters"
+      begin <pdFDTDParameters(1.18)>
+        3 2 100 0 // numdimensions durationspec duration centralwavelength
+        1 0.02 // gridtype gridspacing
+        0.02 0.02 0.02 // gridspacingx gridspacingy gridspacingz
+        16 1 1 2 // pmlthickness pmlstructure pmlfactor pmlexponent
+        1 // boundarycondition
+        0 // overridexneg
+        0 // overridexpos
+        0 // overrideyneg
+        0 // overrideypos
+        0 // overridezneg
+        0 // overridezpos
+        0 0 10 10 // minwavelength maxwavelength mixingtolerance epsilontolerance
+        0.05 10000 0.05 0.01 // gradingrixtolerance gradingalphatolerance gradingpermeabilitytolerance gradingparamtolerance
+        begin <pdFDTDMaterialParamsDatabase(1.1)>
+          0 // numentries
+        end
+        0 4 0 100 2 // sensorminwavelength sensortimeundersample sensorintegrateflux sensorspectrumrange sensorspectrumstepsfac
+        2 40 0 1 // fourierspec fourierstart fourierlength fourierwindow
+        begin <pdScannerParameters(1.0)>
+          0 // scannerenabled
+          "x" // scanvariablename
+          0 1 0.1 // scanvariablefrom scanvariableto scanvariablestep
+          0 // numscanneractions
+        end
+        begin <pdActiveFDTDParameters(1.2)>
+          1 // carrieraccelfactor
+          1 // carrierspatialresolution
+          1e-020 // initialcarrierdensity
+        end
+      end
+      begin <pdFETDParameters(1.6)>
+        2 2 200 0 // numdimensions durationspec duration centralwavelength
+        1 // meshtypefetd
+        0.2 // mesh
+        0.05 // smallestfeaturefrac2d
+        1 // curveresolutionfactor
+        1 // timestepoverride
+        0.98 // meshpriorityfetd
+        2 // eltorder
+        0 // blochthetaangle
+        0 // blochphiangle
+        2 // pmlthickness
+        3 // boundarycondition
+        0 // overridezneg
+        0 // overridezpos
+        0 // overridexneg
+        0 // overridexpos
+        0 // overrideyneg
+        0 // overrideypos
+        0 // pmlthicknessvoid
+        0 0 10 // minwavelength maxwavelength epsilontolerance
+        begin <pdFDTDMaterialParamsDatabase(1.1)>
+          0 // numentries
+        end
+        0 1 0 100 2 // sensorminwavelength sensortimeundersample sensorintegrateflux sensorspectrumrange sensorspectrumstepsfac
+        2 0 0 1 // fourierspec fourierstart fourierlength fourierwindow
+      end
+      begin <pdFDParameters(1.5)>
+        1 0.05 1 0.98 1.55 // discretisation resolution curveresolutionfactor priority wavelength
+        1 1 1 1 // boundaryconditionsleft boundaryconditionsright boundaryconditionsbottom boundaryconditionstop
+        1 1 1 1 // pmlthicknessleft pmlthicknessright pmlthicknessbottom pmlthicknesstop
+        begin <pdScannerParameters(1.0)>
+          0 // scannerenabled
+          "x" // scanvariablename
+          0 1 0.1 // scanvariablefrom scanvariableto scanvariablestep
+          0 // numscanneractions
+        end
+      end
+      begin <pdBandParameters(1.0)>
+      end
+    end
+  end
+end
